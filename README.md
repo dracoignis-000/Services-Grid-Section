@@ -1,7 +1,6 @@
 # Services-Grid-Section
 Here I model a services section for a website, the section includes a grid that can be sorted and pagination to take you to the next page of the view!
 
-# Services Grid
 
 The Services Grid is a web component that allows you to display a grid of services on your website. It includes features such as filtering by category and pagination, and can be customized to fit your specific design needs.
 Installation
